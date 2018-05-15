@@ -1,1 +1,1 @@
-# Needleman-Wunsch
+# Marchov Chain Monte Carlo
